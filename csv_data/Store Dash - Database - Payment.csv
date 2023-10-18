@@ -1,0 +1,8 @@
+Payment_ID,Payment_Method,Admin_Costs
+PAY-SD01,Bank Transfer,2000
+PAY-SD02,Debit Card,3500
+PAY-SD03,Credit Card,4000
+PAY-SD04,GoPay,1000
+PAY-SD05,OVO,1000
+PAY-SD06,Dana,1500
+PAY-SD07,Partner (Alfamart/Indomart),2500

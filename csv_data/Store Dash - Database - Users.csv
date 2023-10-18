@@ -1,0 +1,122 @@
+User_ID,Customer_Name,Gender,Email,Phone,Address,Postal Code,Location
+SD-USR1001,Ahmad Fadlan Amin,Male,Ahm-001@gmail.com,085161816,Jl. Mesjid IV,17134,Jawa Tengah
+SD-USR1002,Rafi Sudirman,Male,Raf-002@gmail.com,085161926,Jl. Melati,11410,Jawa barat
+SD-USR1003,Gita Meliala,Female,Git-003@gmail.com,085162036,Jl. Utama Raya,14350,Jawa Timur
+SD-USR1004,Rizky Efbian,Male,Riz-004@gmail.com,85162147,Jl. Bambu Larangan Raya,12820,Jakarta
+SD-USR1005,Dea Alkuin,Female,Dea-005@gmail.com,085162037,Rusun Bumi Cengkareng Indah,12640,Bali
+SD-USR1006,Monika Riantan,Female,Mon-006@gmail.com,85162148,Jl. Beringin Raya,11410,Jawa barat
+SD-USR1007,Taylor Swift,Female,Tay-007@gmail.com,085162038,Jl. A.A.,12820,Jakarta
+SD-USR1008,Budi Sumanto,Male,Bud-008@gmail.com,85162149,Jl. Puspa RW. 012,17134,Jawa Tengah
+SD-USR1009,Karmela Susanti,Female,Kar-009@gmail.com,085162039,Jl. Nusa Indah III,14350,Jawa Timur
+SD-USR10010,Felix Sumargo,Male,Fel-010@gmail.com,85162150,Jl. Nusa Indah 2,14350,Jawa Timur
+SD-USR10011,Putra Mahardika,Male,Put-011@gmail.com,085161817,Jl. Anggrek,11410,Jawa barat
+SD-USR10012,Fadil Huda,Male,Fad-012@gmail.com,085171818,Jl. Pedongkelan,12640,Bali
+SD-USR10013,Maliq Sulaiman,Male,Mal-013@gmail.com,085181819,Jl. Nusa Indah,11410,Jawa barat
+SD-USR10014,Dipha Barus,Male,Dip-014@gmail.com,085191820,Jl. Duri Kosambi Utara,12640,Bali
+SD-USR10015,Gamaliel Audrey,Male,Gam-015@gmail.com,085201821,Jl. Melati,14350,Jawa Timur
+SD-USR10016,Anissa Salsabila,Female,Ani-016@gmail.com,085211822,Jl. Dahlia,17134,Jawa Tengah
+SD-USR10017,Putri Mutmainah,Female,Put-017@gmail.com,085221823,Jl. Puspa V,11410,Jawa barat
+SD-USR10018,Marion Jola,Female,Mar-018@gmail.com,085231824,Jl. Melati,11410,Jawa barat
+SD-USR10019,Raishu Andriana,Female,Rai-019@gmail.com,085241825,Jl. Dahlia,12820,Jakarta
+SD-USR10020,Cantika Alifah,Female,Can-020@gmail.com,085251826,Jl. Akasia Raya,12640,Bali
+SD-USR10021,Davai Alvarez,Male,Dav-021@gmail.com,085261827,Jl. Puspa I,12640,Bali
+SD-USR10022,Emir Mahendra,Male,Emi-022@gmail.com,085271828,Jl. Durian 3,12640,Bali
+SD-USR10023,Ayaz Anasari,Male,Aya-023@gmail.com,085281829,Jl. Pakis Raya,17134,Jawa Tengah
+SD-USR10024,Sal Priadi,Male,Sal-024@gmail.com,085291830,Jl. Bawang Merah 2,12820,Jakarta
+SD-USR10025,Eric Santos,Male,Eri-025@gmail.com,085301831,Jl. Buncis I,12640,Bali
+SD-USR10026,Andre Mulaini,Male,And-026@gmail.com,085311832,Jl. Al Amanah,17134,Jawa Tengah
+SD-USR10027,Fatin Lubis,Female,Fat-027@gmail.com,085321833,Jl. Rasa Sayang,12640,Bali
+SD-USR10028,Olivia Rodrigo,Female,Oli-028@gmail.com,085331834,Jl. Tanjung Duren IX,11410,Jawa barat
+SD-USR10029,Wulan Ratnasari,Female,Wul-029@gmail.com,085341835,Jl. Hadiah Utama II,12820,Jakarta
+SD-USR10030,Ilham Ramdhani,Male,Ilh-030@gmail.com,085351836,Jl. Susilo IX,14350,Jawa Timur
+SD-USR10031,Sentra Dharmawangsa,Male,Sen-031@gmail.com,085361837,Jl. DR. Semeru 2,12820,Jakarta
+SD-USR10032,Arvi Julian,Male,Arv-032@gmail.com,085371838,Jl. Makaliwe II,17134,Jawa Tengah
+SD-USR10033,Diza Nadine,Female,Diz-033@gmail.com,085381839,Jl. Susilo Raya,12640,Bali
+SD-USR10034,Nauly Rizki,Female,Nau-034@gmail.com,085391840,Jl. Makaliwe,11410,Jawa barat
+SD-USR10035,Arkan Mahardika,Male,Ark-035@gmail.com,085401841,Jl.Kyai Tapa,17134,Jawa Tengah
+SD-USR10036,Tasya Rahman,Female,Tas-036@gmail.com,085411842,Jl. Susilo III,12820,Jakarta
+SD-USR10037,Erik Sandgren,Male,Eri-037@gmail.com,085421843,Jl. Hadiah Utama III D,12640,Bali
+SD-USR10038,Emil Sandgren,Male,Emi-038@gmail.com,085431844,Jl. Madya Barat I,12640,Bali
+SD-USR10039,Muhammad Rizal,Male,Muh-039@gmail.com,085441845,Jl. Hadiah Utama V,11410,Jawa barat
+SD-USR10040,Karin Novilda,Female,Kar-040@gmail.com,085451846,Madya Utama Raya,14350,Jawa Timur
+SD-USR10041,Elias Budi Utomo,Male,Eli-041@gmail.com,085461847,Jl. Hadiah Utama IIIC,12640,Bali
+SD-USR10042,Nikita Rahman,Female,Nik-042@gmail.com,085471848,Jl. Satria III,11410,Jawa barat
+SD-USR10043,Nico Harms,Male,Nic-043@gmail.com,085481849,Jl. Hadiah Utama I,11410,Jawa barat
+SD-USR10044,Irsyana Sarasvati,Female,Irs-044@gmail.com,085491850,Jl. Jelambar Baru,14350,Jawa Timur
+SD-USR10045,Yura Yunita,Female,Yur-045@gmail.com,085501851,Jl. Hadiah Utama Raya,12820,Jakarta
+SD-USR10046,Daniel Mananta,Male,Dan-046@gmail.com,085511852,Jl. Madya Barat,12640,Bali
+SD-USR10047,Christina Maharani,Female,Chr-047@gmail.com,085521853,Jl. Madya Barat II,12640,Bali
+SD-USR10048,Cahya Nugraha,Male,Cah-048@gmail.com,085531854,Jl. Hadiah Utama Raya,17134,Jawa Tengah
+SD-USR10049,Jason Susanto,Male,Jas-049@gmail.com,085541855,Jl. Jelambar Timur IIB,14350,Jawa Timur
+SD-USR10050,Aaron Leonhart,Male,Aar-050@gmail.com,085551856,Jl. Jelambar Madya IV,17134,Jawa Tengah
+SD-USR10051,Khalish Rusyaidee,Male,Kha-051@gmail.com,085561857,Jl. Hadiah Utama IVA,14350,Jawa Timur
+SD-USR10052,Wang Jing Jie,Male,Wan-052@gmail.com,085571858,Jl. Madya Timur II A,12820,Jakarta
+SD-USR10053,Ilya Petrov,Male,Ily-053@gmail.com,085581859,Jl. Satria,14350,Jawa Timur
+SD-USR10054,Alex Salle,Male,Ale-054@gmail.com,085591860,Jl. Hadiah Utama IV,17134,Jawa Tengah
+SD-USR10055,Abel Tesfaye,Male,Abe-055@gmail.com,085601861,Jl. Hanoman I,17134,Jawa Tengah
+SD-USR10056,Robyn Fenty,Female,Rob-056@gmail.com,085611862,Jl. Jatayu 4A,12820,Jakarta
+SD-USR10057,Stephanie Poetri,Female,Ste-057@gmail.com,085621863,Jl. Tanjung Duren Selatan III,12820,Jakarta
+SD-USR10058,Adam Idris,Male,Ada-058@gmail.com,085631864,Jl. Delima I,17134,Jawa Tengah
+SD-USR10059,Tarik Celik,Male,Tar-059@gmail.com,085641865,Jl. Dukuh II,12820,Jakarta
+SD-USR10060,Hannah Nuraini,Female,Han-060@gmail.com,085651866,R Dinas Walikota,14350,Jawa Timur
+SD-USR10061,Brian Emanuel,Male,Bri-061@gmail.com,085661867,Jl. Manggis III,17134,Jawa Tengah
+SD-USR10062,Nathan Alfiah,Female,Nat-062@gmail.com,085671868,Jl. Menteng II,11410,Jawa barat
+SD-USR10063,Lana Del Rey,Female,Lan-063@gmail.com,085681869,Jl. Tanj. Duren Timur II A,11410,Jawa barat
+SD-USR10064,Hanifah Lestari,Female,Han-064@gmail.com,085691870,Jl. Tanjung Duren Sltn I,14350,Jawa Timur
+SD-USR10065,Ezno Mestari,Male,Ezn-065@gmail.com,085701871,Jl. Rambutan,12640,Bali
+SD-USR10066,Russel Mendes,Male,Rus-066@gmail.com,085711872,Jl. Lontar,12820,Jakarta
+SD-USR10067,Benedict Tan,Male,Ben-067@gmail.com,085721873,Jl. Dukuh III,17134,Jawa Tengah
+SD-USR10068,Hindia Pamungkas,Male,Hin-068@gmail.com,085731874,Jl. Tanj. Duren Utara III E,14350,Jawa Timur
+SD-USR10069,Andre Hozier,Male,And-069@gmail.com,085741875,Jl. Komplek DPR I,17134,Jawa Tengah
+SD-USR10070,Martha Tilaar,Female,Mar-070@gmail.com,085751876,Jl. Melur,11410,Jawa barat
+SD-USR10071,Astari Fitri,Female,Ast-071@gmail.com,085761877,Komp. Pemadam Kebakaran,14350,Jawa Timur
+SD-USR10072,Joji Mustafa,Male,Joj-072@gmail.com,085771878,Jl. Sangkrini,12820,Jakarta
+SD-USR10073,Posty Malone,Male,Pos-073@gmail.com,085781879,Jl. Kebon Jeruk Raya,12640,Bali
+SD-USR10074,Jeremy Bona,Male,Jer-074@gmail.com,085791880,Jl. Kebon Jeruk,17134,Jawa Tengah
+SD-USR10075,Selena Homez,Female,Sel-075@gmail.com,085801881,Taman Koramil,11410,Jawa barat
+SD-USR10076,Angelina Jolanda,Female,Ang-076@gmail.com,085811882,Komp. DKI Joglo Blok R,14350,Jawa Timur
+SD-USR10077,Emma Stone,Female,Emm-077@gmail.com,085821883,Jl Komp. DKI Blok Z,12820,Jakarta
+SD-USR10078,Billy Illish,Male,Bil-078@gmail.com,085831884,Komp. DKI Joglo Blok D,12640,Bali
+SD-USR10079,Finneas Siregar,Male,Fin-079@gmail.com,085841885,Jl Komp. DKI Blok E,11410,Jawa barat
+SD-USR10080,Nugraha Saragih,Male,Nug-080@gmail.com,085851886,Komp. DKI Joglo Blok M,14350,Jawa Timur
+SD-USR10081,Hermoine Utomo,Female,Her-081@gmail.com,085861887,Jl Komp DKI Blok F,12820,Jakarta
+SD-USR10082,Chrisopher Wijadja,Male,Chr-082@gmail.com,085871888,Jl Komp. Pemadam Kebakaran,12640,Bali
+SD-USR10083,Bruna April,Female,Bru-083@gmail.com,085881889,Kantor Kec.(Kembangan Brt),11410,Jawa barat
+SD-USR10084,Mulan Jameela,Female,Mul-084@gmail.com,085891890,Jl.Aries Utama 3,14350,Jawa Timur
+SD-USR10085,Maya Estianti,Female,May-085@gmail.com,085901891,Jl. Delima 8 (Komp. BTN II),12820,Jakarta
+SD-USR10086,Sherina Munaf,Female,She-086@gmail.com,085911892,Jl. Kembangan Baru,12640,Bali
+SD-USR10087,GIta Gutawa,Female,GIt-087@gmail.com,085921893,Komplek Unilever Blok B1,11410,Jawa barat
+SD-USR10088,Vidi Aldiandra,Male,Vid-088@gmail.com,085931894,Komp. Perumahan Walikota Blok C,14350,Jawa Timur
+SD-USR10089,Dua Lupa,Female,Dua-089@gmail.com,085941895,Komplek Unilever Blok A1,12820,Jakarta
+SD-USR10090,Sabrina Zubaidah,Female,Sab-090@gmail.com,085951896,Komp. Perumahan Walikota Blok D,11410,Jawa barat
+SD-USR10091,Alessandra Cara,Female,Ale-091@gmail.com,085961897,Jl Aries Utama I,14350,Jawa Timur
+SD-USR10092,Ariana Grande,Female,Ari-092@gmail.com,085971898,Jl Nagasari,12820,Jakarta
+SD-USR10093,Brata Kusuma,Male,Bra-093@gmail.com,085981899,Jl. Teknologi 8,12820,Jakarta
+SD-USR10094,Jessy Emeralda,Female,Jes-094@gmail.com,085991900,Jl. Gading Elok Utara II RW 13,11410,Jawa barat
+SD-USR10095,Siti Asmirasih,Female,Sit-095@gmail.com,086001901,Jl. Kelapa Kopyor Timur 2,14350,Jawa Timur
+SD-USR10096,Ed Sheeran,Male,Ed -096@gmail.com,086011902,Jl. Kelapa Puan Timur V,12820,Jakarta
+SD-USR10097,Sheeran Munkar,Female,She-097@gmail.com,086021903,"Kelapa Gading ,Komp. Kuning",12820,Jakarta
+SD-USR10098,Katy Perez,Female,Kat-098@gmail.com,086031904,Jl. Musik Raya,12820,Jakarta
+SD-USR10099,Alanis Maretha,Female,Ala-099@gmail.com,086041905,Jl. Simponi,12820,Jakarta
+SD-USR100100,Ilyas Jibrail,Male,Ily-100@gmail.com,086051906,Jl. Kelapa Cengkir Barat IV,11410,Jawa barat
+SD-USR100101,Mahardika Putra,Male,Mah-101@gmail.com,086061907,Jl. Maengket,12820,Jakarta
+SD-USR100102,Louis Aranguren,Male,Lou-102@gmail.com,086071908,Jl. Kelapa Lilin 8,12820,Jakarta
+SD-USR100103,Putri Susanti,Female,Put-103@gmail.com,086081909,Jl. Maramba,12820,Jakarta
+SD-USR100104,Ahmad Albar,Male,Ahm-104@gmail.com,086091910,Jl. Tarian Raya,12820,Jakarta
+SD-USR100105,Bing Slamet,Male,Bin-105@gmail.com,086101911,Jl. Sumagung II,12820,Jakarta
+SD-USR100106,Elvi Sukaesih,Female,Elv-106@gmail.com,086111912,Jl. Perintis Kemerdekaan,12820,Jakarta
+SD-USR100107,Afgansyah Reza,Male,Afg-107@gmail.com,086121913,Jl. Perintis Kemerdekaan,12820,Jakarta
+SD-USR100108,Gito Rollies,Female,Git-108@gmail.com,086131914,Jl. Gading Raya,12820,Jakarta
+SD-USR100109,Armand Maulana,Male,Arm-109@gmail.com,086141915,Jl. Gading Raya,12820,Jakarta
+SD-USR100110,Fadly Padi,Female,Fad-110@gmail.com,086151916,Jl. Taska,12820,Jakarta
+SD-USR100111,Oslan Husein,Male,Osl-111@gmail.com,086161917,Jl. Kelapa Puan Timur I,12820,Jakarta
+SD-USR100112,Melly Goeslaw,Female,Mel-112@gmail.com,086171918,Jl. Janur Elok I,12820,Jakarta
+SD-USR100113,Ebiet G Ade,Male,Ebi-113@gmail.com,086181919,Jl. Bongo IV,12820,Jakarta
+SD-USR100114,Nicky Astria,Female,Nic-114@gmail.com,086191920,Jl. H. Oyar,12820,Jakarta
+SD-USR100115,Ruth Sahanaya,Female,Rut-115@gmail.com,086201921,Jl. Janur Elok Raya,12820,Jakarta
+SD-USR100116,Utha Likumahuwa,Female,Uth-116@gmail.com,086211922,Jl. Jampea,12820,Jakarta
+SD-USR100117,Glenn Fredly,Male,Gle-117@gmail.com,086221923,Jl. Yos Sudarso,12820,Jakarta
+SD-USR100118,Roy Jeconiah,Male,Roy-118@gmail.com,086231924,Jl. Alur Laut,12820,Jakarta
+SD-USR100119,Millane Fernandez,Female,Mil-119@gmail.com,086241925,Jl. Yos Sudarso,11410,Jawa barat
+SD-USR100120,Frans Rizky Aditya,Male,Fra-120@gmail.com,086251926,Jl. Deli,11410,Jawa barat
+SD-USR100121,Bornok Hutauruk,Male,Bor-121@gmail.com,086261927,Jl.Yos Sudarso,11410,Jawa barat

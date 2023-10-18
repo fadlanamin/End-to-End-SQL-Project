@@ -1,0 +1,7 @@
+Delivery_ID,Delivery_Method,Delivery_Fee
+DEL-SB01,Standard Delivery,12000
+DEL-SB02,Express Delivery,16000
+DEL-SB03,Scheduled Delivery,7000
+DEL-SB04,Large Delivery,20000
+DEL-SB05,Express Large Delivery,25000
+DEL-SB06,Scheduled Large Delivery,15000

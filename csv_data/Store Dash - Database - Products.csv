@@ -1,0 +1,271 @@
+SKU_ID,Product_Name,Category_ID,Product_Type,Shelf_Life,COGS,Product_Price
+SB-GRO001,Pringles Cheesy Cheese Keripik 102gr,GRO-SD01,Key,> 180 Days,20000,26000
+SB-GRO002,Qtela Kerupuk Keriting Original 180 gram,GRO-SD01,Key,> 180 Days,7890,10300
+SB-GRO003,Cereal SIMBA Choco Chips Bag 1 kg,GRO-SD01,Key,> 180 Days,35764,46500
+SB-GRO004,Pocky Biskuit Stik Almond 36 gram,GRO-SD01,Traffics,> 180 Days,6678,7700
+SB-GRO005,Monde Serena Snack Gold 50gr,GRO-SD01,Traffics,> 180 Days,3475,4000
+SB-GRO006,Monde Genji Strawberry Soft Pie 85gr,GRO-SD01,Traffics,> 180 Days,7512,8700
+SB-GRO007,Coca-Cola Original - Botol 1.5lt,GRO-SD01,Traffics,> 180 Days,9401,10900
+SB-GRO008,Tebs Tea With Soda Sparkling Mix Fruit Botol 500 ml,GRO-SD01,Traffics,> 180 Days,6577,7600
+SB-GRO009,Special Edition Tumbler Vacuum Insulated 316 590ML,GRO-SD01,Quality,> 180 Days,75000,105000
+SB-GRO0010,Root Beer Can 330 ml,GRO-SD01,Traffics,> 180 Days,7651,8800
+SB-GRO0011,Aqua Air Mineral Botol 1.5 liter,GRO-SD01,Traffics,> 180 Days,4500,5200
+SB-GRO0012,AQUA Air Mineral 600ml x 12 botol,GRO-SD01,Niche,> 180 Days,43000,53800
+SB-GRO0013,Nestle MILO Coklat Nuggets 25g,GRO-SD01,Traffics,> 180 Days,103123,118600
+SB-GRO0014,Delfi Chacha Peanut Chocolate 40 gram,GRO-SD01,Traffics,> 180 Days,7541,8700
+SB-GRO0015,Delfi Cokelat Hot Cocoa 3in1 isi 5 pcs x 25 gram,GRO-SD01,Traffics,> 180 Days,15741,18200
+SB-GRO0016,ABC Saus Sambal Extra Pedas 380 g,GRO-SD02,Key,> 180 Days,12314,16100
+SB-GRO0017,ABC Saus Sambal Extra Pedas 275 ml,GRO-SD02,Key,> 180 Days,11412,14900
+SB-GRO0018,Bango Kecap Manis 135Ml,GRO-SD02,Key,> 180 Days,10412,13600
+SB-GRO0019,ABC Saus Sambal Asli Jerigen 5.5 kg,GRO-SD02,Niche,> 180 Days,75131,94000
+SB-GRO0020,BUMBU RACIK INDOFOOD - BUMBU MASAK INSTAN - Sayur Sop,GRO-SD02,Traffics,> 180 Days,2480,2900
+SB-GRO0021,BUMBU RACIK INDOFOOD - BUMBU MASAK INSTAN - Nasi Goreng,GRO-SD02,Traffics,> 180 Days,2480,2900
+SB-GRO0022,Lemonilo Alamami Bumbu Masak Praktis Ayam Goreng Lengkuas 40g,GRO-SD02,Traffics,> 180 Days,7560,8700
+SB-GRO0023,BUMBU MASAK BAMBOE BULGOGI,GRO-SD02,Traffics,> 180 Days,6751,7800
+SB-GRO0024,MUNIK Bumbu Tom Yam Bumbu Masak Instan [130 gr],GRO-SD02,Quality,> 180 Days,47610,66700
+SB-GRO0025,Lemonilo Alamami Bumbu Masak Praktis Ayam Goreng Kremes 25g,GRO-SD02,Traffics,> 180 Days,4317,5000
+SB-GRO0026,Bango Kecap Manis Pouch 735 ml - Unilever,GRO-SD02,Traffics,> 180 Days,35600,41000
+SB-GRO0027,LEE KUM KEE Soy Sauce Dark Premium Kecap Hitam 500 ml,GRO-SD02,Quality,> 180 Days,43124,60400
+SB-GRO0028,Tropicana Slim Kecap Asin 200ml - Rendah Garam,GRO-SD02,Traffics,> 180 Days,23465,27000
+SB-GRO0029,Sedaap Kecap Manis Kedelai Hitam Spesial 520 ml,GRO-SD02,Traffics,> 180 Days,17541,20200
+SB-GRO0030,ABC Terasi Udang 20 x 3.8 g,GRO-SD02,Traffics,> 180 Days,5416,6300
+SB-GRO0031,Indomie Goreng Original Mie Instan 85 gram,GRO-SD03,Key,> 180 Days,2345,3100
+SB-GRO0032,Indomie Rebus Soto Mie Instan 70 gram,GRO-SD03,Key,> 180 Days,2243,3000
+SB-GRO0033,Indomie Rebus Kari Ayam Mie Instan 72 gram,GRO-SD03,Key,> 180 Days,2243,3000
+SB-GRO0034,Indomie Japanese Miso Ramen,GRO-SD03,Traffics,> 180 Days,5412,6300
+SB-GRO0035,1 ctn - Indomie Kaldu Ayam 75 gr,GRO-SD03,Niche,> 180 Days,108712,135900
+SB-GRO0036,Nongshim Chapagetti 140 Gr,GRO-SD03,Quality,> 180 Days,20300,28500
+SB-GRO0037,San Remo Pasta Panne Original Gluten Free 350 gram,GRO-SD03,Quality,> 180 Days,40300,56500
+SB-GRO0038,Cassava Pasta Mac and Cheese,GRO-SD03,Traffics,> 180 Days,23400,27000
+SB-GRO0039,La Fonte Lasagna Sheets - 230 gram,GRO-SD03,Traffics,> 180 Days,18700,21600
+SB-GRO0040,Mie Korea Gluten Free Ladang Lima 94gr - Instant Korean Noodle,GRO-SD03,Traffics,> 180 Days,7500,8700
+SB-GRO0041,La Fonte Penne Ziti Rigate Pasta 450 gram,GRO-SD03,Traffics,> 180 Days,16500,19000
+SB-GRO0042,Pop Mie Rasa Ayam Bawang Jumbo,GRO-SD03,Traffics,> 180 Days,4500,5200
+SB-GRO0043,Pop Mie Mie Instan Baso Sapi Mini Cup 35 gram,GRO-SD03,Traffics,> 180 Days,3400,4000
+SB-GRO0044,Bogasari Segitiga Biru Premium Tepung Terigu 1 kg,GRO-SD02,Traffics,> 180 Days,10200,11800
+SB-GRO0045,Sasa Tepung Bumbu Serbaguna Original Fortified 210 gram,GRO-SD02,Traffics,> 180 Days,6700,7800
+SB-GRO0046,Sumo Merah Beras Putih 5 kg,GRO-SD04,Key,<= 180 Days,57312,74600
+SB-GRO0047,Gulaku Tebu Gula Pasir 1 kg,GRO-SD04,Key,> 180 Days,11200,14600
+SB-GRO0048,Sania Sawit Minyak Goreng Pouch 2 liter,GRO-SD04,Key,> 180 Days,32100,41800
+SB-GRO0049,Minyak Goreng Kelapa Barco 2 L,GRO-SD04,Quality,> 180 Days,61200,85700
+SB-GRO0050,SANIA BERAS 5KG,GRO-SD04,Traffics,<= 180 Days,56700,65300
+SB-GRO0051,Topi Koki Sentra Ramos Beras Putih 5 kg,GRO-SD04,Traffics,<= 180 Days,61432,70700
+SB-GRO0052,BERAS RAJA ULTIMA 5KG,GRO-SD04,Traffics,<= 180 Days,57541,66200
+SB-GRO0053,Rose Brand Tebu Gula Pasir 1 kg,GRO-SD04,Traffics,> 180 Days,12300,14200
+SB-GRO0054,Tropicana Slim Classic Refill 500gr - Pengganti Gula,GRO-SD04,Quality,> 180 Days,91765,128500
+SB-GRO0055,TROPICAL MINYAK GORENG BOTOL 2 L,GRO-SD04,Traffics,> 180 Days,27861,32100
+SB-GRO0056,Dolpin Iodium Garam Dapur 250 gram,GRO-SD02,Traffics,> 180 Days,3712,4300
+SB-GRO0057,Himalayan Salt 1 Kg,GRO-SD02,Quality,> 180 Days,32176,45100
+SB-GRO0058,Ladaku Merica Lada Bubuk isi 6 pcs Pepper,GRO-SD02,Traffics,> 180 Days,6512,7500
+SB-GRO0059,Francis Organic Kacang Almond Panggang 31 gram,GRO-SD01,Traffics,> 180 Days,12300,14200
+SB-GRO0060,Wafer Coklat Superstar Triple Chocolate Box 12 Pcs @ 216 Gr,GRO-SD01,Traffics,> 180 Days,11751,13600
+SB-FRS0061,Buah Naga Merah 1 kg,FRS-SD01,Key,<= 30 Days,24500,31900
+SB-FRS0062,Apel Fuji 1 Kg,FRS-SD01,Key,<= 30 Days,31341,40800
+SB-FRS0063,Alpukat Mentega /kg,FRS-SD01,Key,<= 30 Days,31651,41200
+SB-FRS0064,Jeruk Lemon Import 1 kg,FRS-SD01,Traffics,<= 30 Days,27451,31600
+SB-FRS0065,Pisang Tanduk /pcs,FRS-SD01,Traffics,<= 30 Days,6712,7800
+SB-FRS0066,Buah Pepaya Potong - 1 pack,FRS-SD01,Traffics,<= 30 Days,12450,14400
+SB-FRS0067,Buah Naga Potong - 1 pack ,FRS-SD01,Traffics,<= 30 Days,12450,14400
+SB-FRS0068,Buah Semangka Potong 350 gram Sayurbox,FRS-SD01,Traffics,<= 30 Days,12450,14400
+SB-FRS0069,Buah Jeruk Nipis Value Bulk - 1 Kg,FRS-SD01,Traffics,<= 30 Days,27541,31700
+SB-FRS0070,King Fruit Durian Super Montong Premium Durian berat 500 Gram,FRS-SD01,Quality,<= 30 Days,107651,150800
+SB-FRS0071,Buah Nanas Palembang /pcs,FRS-SD01,Traffics,<= 30 Days,10871,12600
+SB-FRS0072,Melon Sakata Organik 1pcs ,FRS-SD01,Quality,<= 30 Days,43716,61300
+SB-FRS0073,Strawberry Sweetheart Hidroponik 125 g ,FRS-SD01,Traffics,<= 30 Days,16765,19300
+SB-FRS0074,Pear Packham 1 kg,FRS-SD01,Traffics,<= 30 Days,29561,34000
+SB-FRS0075,Pisang Ambon / Sisir,FRS-SD01,Traffics,<= 30 Days,18761,21600
+SB-FRS0076,Bawang Putih 250 gram,FRS-SD02,Key,<= 30 Days,10300,13400
+SB-FRS0077,Tempe Besar Value - 1 pcs,FRS-SD02,Key,<= 30 Days,6700,8800
+SB-FRS0078,Bayam Hijau Conventional 250 gram,FRS-SD02,Key,<= 30 Days,3700,4900
+SB-FRS0079,Baby Caisim Hidroponik 200 gram,FRS-SD02,Traffics,<= 30 Days,25411,29300
+SB-FRS0080,Buncis Conventional 250 gram ,FRS-SD02,Traffics,<= 30 Days,6511,7500
+SB-FRS0081,Sayur Romaine Lettuce Organik 250 Gram,FRS-SD02,Traffics,<= 30 Days,12541,14500
+SB-FRS0082,Seledri Stick Import ,FRS-SD02,Traffics,<= 30 Days,17651,20300
+SB-FRS0083,Jamur Champignon Natural /250g,FRS-SD02,Traffics,<= 30 Days,15761,18200
+SB-FRS0084,Jamur Enokitake 100 G,FRS-SD02,Traffics,<= 30 Days,4317,5000
+SB-FRS0085,Tomat Cherry Organik /250 g,FRS-SD02,Quality,<= 30 Days,19871,27900
+SB-FRS0086,Wortel Brastagi 1 kg,FRS-SD02,Traffics,<= 30 Days,17699,20400
+SB-FRS0087,Kentang Dieng Value - 1 Kg ,FRS-SD02,Traffics,<= 90 Days,22456,25900
+SB-FRS0088,Jahe Value - 200 gram ,FRS-SD02,Traffics,<= 30 Days,5670,6600
+SB-FRS0089,Salad To Go American Mix 150 gram,FRS-SD02,Traffics,<= 30 Days,20000,23000
+SB-FRS0090,Salad To Go Simply Lettuce 150 gram,FRS-SD02,Traffics,<= 30 Days,20000,23000
+SB-FRS0091,Telur Ayam Negeri 10 pcs,FRS-SD03,Key,<= 30 Days,17651,23000
+SB-FRS0092,Ultra Milk Full Cream Susu UHT 1 liter,FRS-SD03,Key,<= 90 Days,14517,18900
+SB-FRS0093,Telur Ayam Negeri Omega 3 15 pcs,FRS-SD03,Key,<= 30 Days,27612,35900
+SB-FRS0094,Greenfields Keju Mozzarella Block Cheese 200 gram,FRS-SD03,Traffics,<= 90 Days,45666,52600
+SB-FRS0095,Keju Bel Cheeze Dippers 140gr - The Laughing Cow Bel Cheez,FRS-SD03,Quality,<= 90 Days,46771,65500
+SB-FRS0096,Metzger Classic Herb & Garlic Butter Cup (20 gr),FRS-SD03,Traffics,<= 90 Days,7811,9000
+SB-FRS0097,Anchor Pure New Zealand Butter Minidish Unsalted 10 pcs x 7 gram,FRS-SD03,Traffics,<= 90 Days,29667,34200
+SB-FRS0098,Anchor Pure New Zealand Butter Minidish (Salted ) - 10 x 7gr,FRS-SD03,Traffics,<= 90 Days,29667,34200
+SB-FRS0099,Elle Vire Silver Butter Unsalted 200 gram,FRS-SD03,Quality,<= 90 Days,45661,64000
+SB-FRS00100,Anchor Salted Butter 2kg - Mentega Asin New Zealand,FRS-SD03,Niche,<= 180 Days,346771,433500
+SB-FRS00101,Emina Keju Mozzarella 160 gram,FRS-SD03,Traffics,<= 180 Days,22761,26200
+SB-FRS00102,Puck Keju Stik Processed Cheese Stick 6 pcs x 18 gram,FRS-SD03,Traffics,<= 180 Days,56771,65300
+SB-FRS00103,Telur Bebek Mentah 4 pcs,FRS-SD03,Traffics,<= 30 Days,15661,18100
+SB-FRS00104,Telur Ayam Kampung Selenium isi 10 butir,FRS-SD03,Traffics,<= 30 Days,33451,38500
+SB-FRS00105,TELUR AYAM NEGRI 30 BUTIR/PACK,FRS-SD03,Niche,<= 30 Days,56981,71300
+SB-FRS00106,Sari Roti Tawar Spesial 370 gram,FRS-SD04,Key,<= 30 Days,12350,16100
+SB-FRS00107,Sari Roti Tawar Gandum 350 gram,FRS-SD04,Key,<= 30 Days,17600,22900
+SB-FRS00108,Sari Roti Roti Tawar Pandan 370 gram,FRS-SD04,Traffics,<= 30 Days,14550,16800
+SB-FRS00109,MyRoti Roti Isi Cokelat 58 gram,FRS-SD04,Traffics,<= 30 Days,4500,5200
+SB-FRS00110,5 Days Croissant Creamy Cheese ,FRS-SD04,Traffics,<= 30 Days,6000,6900
+SB-FRS00111,5 Days Croissant Creamy Chocolate ,FRS-SD04,Traffics,<= 30 Days,6000,6900
+SB-FRS00112,5 Days Croissant Mix Berries ,FRS-SD04,Traffics,<= 30 Days,6000,6900
+SB-FRS00113,Sari Roti Dorayaki Cokelat 55 gram,FRS-SD04,Traffics,<= 30 Days,5500,6400
+SB-FRS00114,MyRoti Roti Pie Cheese 80 gram,FRS-SD04,Traffics,<= 30 Days,6700,7800
+SB-FRS00115,Jamur King Oyster 200g,FRS-SD02,Traffics,<= 30 Days,17600,20300
+SB-FRS00116,Ubi Cilembu /pack,FRS-SD02,Traffics,<= 30 Days,20400,23500
+SB-FRS00117,Jamur Shimeji Putih Natural 100g,FRS-SD02,Traffics,<= 30 Days,14566,16800
+SB-FRS00118,Semangka Merah Non Biji Fresh 4.5 - 5 Kg,FRS-SD01,Traffics,<= 30 Days,56700,65300
+SB-FRS00119,Anggur Red Globe Fresh 250 gr ,FRS-SD01,Traffics,<= 30 Days,22345,25700
+SB-FRS00120,Kaboca Orange Organik 1 kg,FRS-SD01,Traffics,<= 30 Days,34412,39600
+SB-FRZ00121,Slice Beef US Shortplate Sukiyaki/Yoshinoya 500 gr,FRZ-SD01,Key,<= 90 Days,60780,79100
+SB-FRZ00122,Dory Fish Fillet Premium 1 kg,FRZ-SD01,Key,<= 90 Days,38700,50400
+SB-FRZ00123,Dada Ayam Boneless Tanpa Tulang & Kulit 1 kg,FRZ-SD01,Key,<= 30 Days,43100,56100
+SB-FRZ00124,Daging Has Paha Sapi Tanpa Lemak Lean 1 kg,FRZ-SD01,Quality,<= 90 Days,98700,138200
+SB-FRZ00125,Beef Saikoro Wagyu Meltique Beef Cubes Premium (Qty. 500 gr),FRZ-SD01,Quality,<= 90 Days,86500,121100
+SB-FRZ00126,Tenderloin Wagyu Meltique Style Beef Steak AUS (Qty. 1 kg),FRZ-SD01,Quality,<= 90 Days,156900,219700
+SB-FRZ00127,Sirloin Wagyu Meltique Beef Steak AUS (Qty. 1 kg),FRZ-SD01,Quality,<= 90 Days,145600,203900
+SB-FRZ00128,Daging Giling Sapi | Minced Ground Beef - REGULAR - 500 gr,FRZ-SD01,Traffics,<= 90 Days,48600,55900
+SB-FRZ00129,Ikan Makarel / Ikan Salem Frozen 500 gram,FRZ-SD01,Traffics,<= 180 Days,20100,23200
+SB-FRZ00130,Ikan Tilapia / Ikan Nilla Daging Perut 500 gr,FRZ-SD01,Traffics,<= 180 Days,23500,27100
+SB-FRZ00131,Cumi Flower / Kembang / Nanas Kupas Bersih | Flower-cut Squid - 500 gr,FRZ-SD01,Traffics,<= 180 Days,28000,32200
+SB-FRZ00132,Cumi Ring / Squid Calamari Ring / Cumi Cincin - 500 gram,FRZ-SD01,Traffics,<= 180 Days,27600,31800
+SB-FRZ00133,Daging Hati Sapi | Beef Liver 500 gram,FRZ-SD01,Traffics,<= 90 Days,20100,23200
+SB-FRZ00134,Udang Kupas Vannamei  400 gr,FRZ-SD01,Traffics,<= 180 Days,54900,63200
+SB-FRZ00135,Ikan Gurame | Gourami Fish Frozen (± 400-500 gr / ekor),FRZ-SD01,Traffics,<= 90 Days,30450,35100
+SB-FRZ00136,Glico Wings Ice Cream Frost Bite Coconut Shake 60mL,FRZ-SD02,Key,<= 180 Days,4000,5200
+SB-FRZ00137,Wall's Cornetto Ice Cream PopCornetto 133mL,FRZ-SD02,Key,<= 180 Days,12500,16300
+SB-FRZ00138,Glico Wings Ice Cream Haku Tokyo Cheese Delight 110mL,FRZ-SD02,Key,<= 180 Days,6700,8800
+SB-FRZ00139,Ice Cream Bulk Neapolitan 8L,FRZ-SD02,Niche,<= 180 Days,195000,243800
+SB-FRZ00140,Ice Gold Ribbon Cup 6'S,FRZ-SD02,Quality,<= 180 Days,98700,138200
+SB-FRZ00141,Ice Cream Cornetto Junior Coffee Caramel 80mL,FRZ-SD02,Traffics,<= 180 Days,5000,5800
+SB-FRZ00142,Ice Cream Viennetta Gold 800mL,FRZ-SD02,Quality,<= 180 Days,47000,65800
+SB-FRZ00143,Ice Cream Mochi Duo Durian 45mL,FRZ-SD02,Traffics,<= 180 Days,5600,6500
+SB-FRZ00144,Ice Cream Paddle Pop Twister Magic 55mL,FRZ-SD02,Traffics,<= 180 Days,4500,5200
+SB-FRZ00145,Ice Cream Magnum Mini Mix 6X45mL,FRZ-SD02,Traffics,<= 180 Days,47800,55000
+SB-FRZ00146,Ice Cream Magnum Cookies & Cream 80mL,FRZ-SD02,Traffics,<= 180 Days,15600,18000
+SB-FRZ00147,Ice Cream Sandwich Biscuit 90mL,FRZ-SD02,Traffics,<= 180 Days,11000,12700
+SB-FRZ00148,Ice Cream Belgian Berry Choco 90mL,FRZ-SD02,Traffics,<= 180 Days,17600,20300
+SB-FRZ00149,Ice Cream 3 In 1 Unicorn 350Ml,FRZ-SD02,Traffics,<= 180 Days,22300,25700
+SB-FRZ00150,Ice Cream Sweet Corn 52G,FRZ-SD02,Traffics,<= 180 Days,3700,4300
+SB-FRZ00151,Chicken Nugget 250 gram,FRZ-SD03,Key,<= 180 Days,24400,31800
+SB-FRZ00152,Fish Nugget 300 gram,FRZ-SD03,Key,<= 180 Days,35800,46600
+SB-FRZ00153,Crinkle Cut French Fries | Kentang Goreng Frozen (450 gr) ,FRZ-SD03,Key,<= 180 Days,20600,26800
+SB-FRZ00154,Chicken Nugget Stick 400 gram,FRZ-SD03,Traffics,<= 180 Days,45500,52400
+SB-FRZ00155,Chicken Nugget Ayam Veggie 400 gr,FRZ-SD03,Traffics,<= 180 Days,47600,54800
+SB-FRZ00156,Fish Roll  500 gr,FRZ-SD03,Traffics,<= 180 Days,23000,26500
+SB-FRZ00157,Pempek Adaan Vacum isi 10Pcs,FRZ-SD03,Traffics,<= 180 Days,56000,64400
+SB-FRZ00158,Tahu Baso Besar Semarang 12pcs,FRZ-SD03,Niche,<= 90 Days,43000,53800
+SB-FRZ00159,Lumpia Udang  200gr,FRZ-SD03,Traffics,<= 180 Days,35000,40300
+SB-FRZ00160,Bakso Sapi Polos 25 pcs,FRZ-SD03,Traffics,<= 180 Days,24500,28200
+SB-FRZ00161,Baso Ikan Besar [500g],FRZ-SD03,Traffics,<= 180 Days,25500,29400
+SB-FRZ00162,Chicken Spring Roll / Lumpia Ayam (210 gr),FRZ-SD03,Traffics,<= 180 Days,26700,30800
+SB-FRZ00163,Bratwurst Cocktail Original Sosis Sapi 25 pcs ,FRZ-SD03,Traffics,<= 180 Days,33400,38500
+SB-FRZ00164,Donat Kentang Susu Frozen Food 10pcs,FRZ-SD03,Niche,<= 90 Days,23100,28900
+SB-FRZ00165,Salmon Ball | Bakso / Bola-bola Ikan Salmon - 200 gr,FRZ-SD03,Traffics,<= 180 Days,15000,17300
+SB-LIV00166,Tissue TOWEL Multifold ECONO RED 150s,LIV-SD01,Key,> 180 Days,6700,8800
+SB-LIV00167,Mama Lemon Sabun Cuci Piring Jeruk Nipis 430 ml,LIV-SD01,Key,> 180 Days,7500,9800
+SB-LIV00168,Rinso Molto Deterjen Bubuk Rose Fresh 770G,LIV-SD01,Key,> 180 Days,24500,31900
+SB-LIV00169,Wipol Pel Lantai Karbol Cemara 750Ml ,LIV-SD01,Traffics,> 180 Days,18000,20700
+SB-LIV00170,Kispray Botol Bluis 318 ml,LIV-SD01,Traffics,> 180 Days,11000,12700
+SB-LIV00171,Kispray Pouch Refill Sapphire 200 ml,LIV-SD01,Traffics,> 180 Days,4500,5200
+SB-LIV00172,Baygon Lavender Obat Nyamuk 450 ml,LIV-SD01,Traffics,> 180 Days,34300,39500
+SB-LIV00173,Baygon Obat Nyamuk Fresh Scent 200 ml,LIV-SD01,Traffics,> 180 Days,17600,20300
+SB-LIV00174,PASEO Kitchen Towel / Calorie Absorb 3in1,LIV-SD01,Traffics,> 180 Days,32800,37800
+SB-LIV00175,Tissue BABY Facial Pure Soft 3Ply 130s,LIV-SD01,Traffics,> 180 Days,17000,19600
+SB-LIV00176,Anti Bacterial Tissue Basah 25 sheets Wet Wipes,LIV-SD01,Traffics,> 180 Days,12400,14300
+SB-LIV00177,Green Tea 2x 550ml Air Disinfectant Spray ,LIV-SD01,Niche,> 180 Days,66700,83400
+SB-LIV00178,Daia Deterjen Bubuk Violet 2.7 kg,LIV-SD01,Traffics,> 180 Days,45000,51800
+SB-LIV00179,Daia Hijab Deterjen Bubuk Clean & Fresh 2.7 kg,LIV-SD01,Niche,> 180 Days,43500,54400
+SB-LIV00180,Mr. Muscle Clear Pembersih Kaca Original - 3.7 Liter,LIV-SD01,Traffics,> 180 Days,33872,39000
+SB-LIV00181,PEPSODENT WHITE TOOTHPASTE PASTA GIGI PENCEGAH GIGI BERLUBANG 225G,LIV-SD02,Key,> 180 Days,14300,18600
+SB-LIV00182,Pepsodent Sikat Gigi Gentle Care Soft - 1Pc,LIV-SD02,Key,> 180 Days,9000,11700
+SB-LIV00183,Lifebuoy Sabun Mandi Cair Body Wash Cool Fresh Antibakteri 400Ml,LIV-SD02,Key,> 180 Days,19260,25100
+SB-LIV00184,Rexona Women Deodorant Dreamy Bright - 40ml,LIV-SD02,Traffics,> 180 Days,13140,15200
+SB-LIV00185,Rexona Men Deodorant Roll On Invisible Dry 45Ml ,LIV-SD02,Traffics,> 180 Days,16900,19500
+SB-LIV00186,Ponds Men Ultra Bright Oil Fighter Facial Foam 100gr ,LIV-SD02,Traffics,> 180 Days,26700,30800
+SB-LIV00187,Cetaphil Gentle Skin Cleanser 1000ml Sabun Pembersih Muka,LIV-SD02,Quality,> 180 Days,189900,265900
+SB-LIV00188,Peeling Gel + 7x Ceramide Moisturizer,LIV-SD02,Niche,> 180 Days,124000,155000
+SB-LIV00189,Bright Beauty Facial Foam 100G,LIV-SD02,Traffics,> 180 Days,22400,25800
+SB-LIV00190,Head & Shoulders Cool Menthol Shampoo 160 ml,LIV-SD02,Traffics,> 180 Days,32200,37100
+SB-LIV00191,Sunsilk Shampoo Black Shine 160ml,LIV-SD02,Traffics,> 180 Days,25500,29400
+SB-LIV00192,Clear Styling Cream Rambut Pria - 100ml,LIV-SD02,Traffics,> 180 Days,12600,14500
+SB-LIV00193,GATSBY White Up Eau De Toilette Sky Reflection,LIV-SD02,Traffics,> 180 Days,28000,32200
+SB-LIV00194,Garnier Masker Wajah Light Complete 1pc,LIV-SD02,Traffics,> 180 Days,23300,26800
+SB-LIV00195,Garnier Bright Complete Anti Acne Bacterial Mask,LIV-SD02,Traffics,> 180 Days,25000,28800
+SB-LIV00196,Mr. Muscle Toilet Cleaning Gel Lavender Refill 36mL,LIV-SD01,Traffics,> 180 Days,18762,21600
+SB-LIV00197,Pembersih Granit Multifungsi Fason Gratine 400ml,LIV-SD01,Niche,> 180 Days,32500,40700
+SB-LIV00198,Super Pell Fresh Apple Pembersih Lantai Pouch 770 ml,LIV-SD01,Traffics,> 180 Days,11671,13500
+SB-LIV00199,EMINA SUN PROTECT / SUNSCREEN / SUNBLOCK,LIV-SD02,Traffics,> 180 Days,27000,31100
+SB-LIV00200,Charm Pembalut Body Fit Extra Maxi 23cm Wing 28 pads,LIV-SD02,Traffics,> 180 Days,24600,28300
+SB-LIV00201,Charm Pembalut Body Fit Extra Maxi 23cm Non Wing 20 pads,LIV-SD02,Traffics,> 180 Days,15000,17300
+SB-LIV00202,WIRELESS BLUETOOTH EARPHONE MINI EARBUDS TWS WM01 - Hitam,LIV-SD03,Niche,> 180 Days,169000,211300
+SB-LIV00203,Kabel USB to Lightning Fast Charging,LIV-SD03,Traffics,> 180 Days,35000,40300
+SB-LIV00204,KEPALA CHARGER QUICK CHARGING TYPEC DUAL USB 30W FAST CHARGE,LIV-SD03,Niche,> 180 Days,159000,198800
+SB-LIV00205,Kabel Data Micro USB 18W  Fast Charging Premium Braided  1M,LIV-SD03,Traffics,> 180 Days,19900,22900
+SB-LIV00206,Baterai  AAA A3,LIV-SD03,Key,> 180 Days,17000,22100
+SB-LIV00207,Baterai  AA A2,LIV-SD03,Key,> 180 Days,18700,24400
+SB-LIV00208,Steker T-Arde 3 Arah,LIV-SD03,Niche,> 180 Days,34000,42500
+SB-LIV00209,Lampu LED 20W E27,LIV-SD03,Traffics,> 180 Days,45000,51800
+SB-LIV00210,Lampu Bulb 05 Watt Light E14,LIV-SD03,Niche,> 180 Days,34000,42500
+SB-LIV00211,Tolak Angin Cair - Dus isi 5 Sachet,LIV-SD04,Key,> 180 Days,20500,26700
+SB-LIV00212,cap lang minyak kayu putih 60 ml,LIV-SD04,Key,> 180 Days,17000,22100
+SB-LIV00213,Softies Daily Mask 30s isi 30,LIV-SD04,Traffics,> 180 Days,35000,40300
+SB-LIV00214,Masker Earloop 3 Ply | Surgical Mask,LIV-SD04,Traffics,> 180 Days,10000,11500
+SB-LIV00215,Olaif Instant Hand Sanitizer (75% Alcohol) - 100ml - Spray,LIV-SD04,Traffics,> 180 Days,9800,11300
+SB-LIV00216,Nuvo Hand Sanitizer Spray Fresh Blossom 85 ml,LIV-SD04,Traffics,> 180 Days,8700,10100
+SB-LIV00217,Antis Hand Sanitizer Antiseptik Jeruk Nipis Spray 55 ml,LIV-SD04,Traffics,> 180 Days,8900,10300
+SB-LIV00218,Blackmores Calcimag Multi Isi 60 Tablet / Kalsium / Magnesium/ Vit. D3,LIV-SD04,Quality,> 180 Days,169000,236600
+SB-LIV00219,BLACKMORES PREGNANCY AND BREASTFEEDING GOLD BPOM KALBE - 60 kapsul,LIV-SD04,Niche,> 180 Days,205000,256300
+SB-LIV00220,Hansaplast Antiseptik Tetes 20mL - Pembersih Luka Tanpa Rasa Perih,LIV-SD04,Traffics,> 180 Days,13700,15800
+SB-LIV00221,Hansaplast Kain Elastis Mix 10's - Plester Lentur Kulit Mudah Bernapas,LIV-SD04,Traffics,> 180 Days,6272,7300
+SB-LIV00222,MINYAK ANGIN FRESH CARE 10 ML,LIV-SD04,Traffics,> 180 Days,10966,12700
+SB-LIV00223,Madurasa Madu Original Box 12 sachet x 20 gram,LIV-SD04,Traffics,> 180 Days,10829,12500
+SB-LIV00224,Madu TJ Masuk Angin 140 Gr ,LIV-SD04,Traffics,<= 180 Days,17300,19900
+SB-LIV00225,KOYO SALONPAS UKURAN BESAR / PEGAL LINU / NYERI OTOT,LIV-SD04,Traffics,> 180 Days,10000,11500
+SB-ALT00226,Marlboro Rokok Filter Special Edition Black 20'S,ALT-SD01,Key,> 180 Days,30000,39000
+SB-ALT00227,Camel Rokok Filter Yellow 20'S,ALT-SD01,Key,> 180 Days,25000,32500
+SB-ALT00228,Rokok Filter Ice Purple Boost 16's,ALT-SD01,Traffics,> 180 Days,27000,31100
+SB-ALT00229,Rokok Filter Berry Pop 12'S,ALT-SD01,Traffics,> 180 Days,20000,23000
+SB-ALT00230,Rokok Filter Splash Tropical 16'S,ALT-SD01,Traffics,> 180 Days,26000,29900
+SB-ALT00231,Rokok Filter Light 16'S,ALT-SD01,Traffics,> 180 Days,26700,30800
+SB-ALT00232,Rokok Filter Surya Exclusive 16'S,ALT-SD01,Traffics,> 180 Days,35000,40300
+SB-ALT00233,Alat Kontrasepsi Classic 12 pcs,ALT-SD01,Niche,> 180 Days,26000,32500
+SB-ALT00234,Alat Kontrasepsi Classic 3 pcs,ALT-SD01,Niche,> 180 Days,12000,15000
+SB-ALT00235,Alat Kontrasepsi Ultra Safe 3 pcs,ALT-SD01,Niche,> 180 Days,13200,16500
+SB-ALT00236,Bulan Crystal Beer 300ml,ALT-SD01,Traffics,> 180 Days,25000,28800
+SB-ALT00237,Bulan Pilsneer Beer 300ml,ALT-SD01,Traffics,> 180 Days,25000,28800
+SB-ALT00238,HEINEKEN PINT MULTIPACK [4 X 320 ML],ALT-SD01,Niche,> 180 Days,98000,122500
+SB-ALT00239,Bulan Redler Lemon Beer 300ml,ALT-SD01,Traffics,> 180 Days,25000,28800
+SB-ALT00240,Bulan Redler Blackcurrant Beer 300ml,ALT-SD01,Traffics,> 180 Days,25000,28800
+SB-ALT00241,Wet Food Makanan Kucing Basah - Tuna 80gr,ALT-SD02,Key,> 180 Days,6400,8400
+SB-ALT00242,Wet Food Makanan Kucing Basah - Kitten Mackarel  80gr,ALT-SD02,Key,> 180 Days,6290,8200
+SB-ALT00243,Wet Dog Food Pouch All Variant Makanan Anjing Basah - PUP Beef 80gr,ALT-SD02,Key,> 180 Days,6900,9000
+SB-ALT00244,Wet Dog Food Pouch All Variant Makanan Anjing Basah - PUP Chicken 80gr,ALT-SD02,Traffics,> 180 Days,6900,8000
+SB-ALT00245,Premium Wet Food All Variant Makanan Kucing Basah - Tuna,ALT-SD02,Traffics,> 180 Days,9000,10400
+SB-ALT00246,Premium Wet Food All Variant Makanan Kucing Basah - KITTEN Chicken,ALT-SD02,Traffics,> 180 Days,9000,10400
+SB-ALT00247,Premium Wet Food All Variant Makanan Kucing Basah - Tuna Crabstick,ALT-SD02,Traffics,> 180 Days,9000,10400
+SB-ALT00248,Makanan Kucing Kering Junior 1.1kg - Mackerel,ALT-SD02,Traffics,> 180 Days,57651,66300
+SB-ALT00249,Makanan Kucing Basah Can 85gr - Flaked Tuna,ALT-SD02,Traffics,> 180 Days,16751,19300
+SB-ALT00250,Makanan Kucing Kering rasa Tuna Dry 1.2 kg,ALT-SD02,Traffics,> 180 Days,64800,74600
+SB-ALT00251,PET KINGDOM 1 LTR SAMPO HEWAN FLEA & TICK 025,ALT-SD02,Niche,> 180 Days,129000,161300
+SB-ALT00252,SHAMPOO ANJING PET KINGDOM EXTRA CARE WITH NEEM TREE OIL,ALT-SD02,Niche,> 180 Days,78900,98700
+SB-ALT00253,Snack Kucing Purrr-ee 24gr - Salmon & Cheese ,ALT-SD02,Traffics,> 180 Days,12000,13800
+SB-ALT00254,Snack Kucing Purrr-ee 24gr - Chicken & Tuna,ALT-SD02,Traffics,> 180 Days,12000,13800
+SB-ALT00255,Makanan Kucing Basah rasa Katsuo & Katsuo Salmon Melty 48gr ,ALT-SD02,Traffics,> 180 Days,23400,27000
+SB-ALT00256,Meat Jerky Strap Snack Anjing 80gr - Isi 1 - Smoky Beef,ALT-SD02,Traffics,> 180 Days,21200,24400
+SB-ALT00257,Meat Jerky Strap Snack Anjing 80gr - Isi 1 - Grilled Liver,ALT-SD02,Traffics,> 180 Days,21200,24400
+SB-ALT00258,Meat Jerky Strap Snack Anjing 80gr - Isi 1 - Roasted Lamb,ALT-SD02,Traffics,> 180 Days,21200,24400
+SB-ALT00259,Mobile Credit (Pulsa) 25000,ALT-SD03,Traffics,> 180 Days,25000,28500
+SB-ALT00260,Mobile Credit (Pulsa) 12000,ALT-SD03,Traffics,> 180 Days,12000,15500
+SB-ALT00261,Mobile Credit (Pulsa) 20000,ALT-SD03,Traffics,> 180 Days,20000,23500
+SB-ALT00262,Mobile Credit (Pulsa) 50000,ALT-SD03,Traffics,> 180 Days,50000,53500
+SB-ALT00263,Mobile Credit (Pulsa) 75000,ALT-SD03,Traffics,> 180 Days,75000,78500
+SB-ALT00264,Valorant Points 5000,ALT-SD03,Niche,> 180 Days,250000,253500
+SB-ALT00265,Valorant Points 2500,ALT-SD03,Niche,> 180 Days,145000,148500
+SB-ALT00266,Valorant Points 1000,ALT-SD03,Niche,> 180 Days,102100,105600
+SB-ALT00267,Leage of Leagends Diamonds 1000,ALT-SD03,Niche,> 180 Days,201450,204950
+SB-ALT00268,Leage of Leagends Diamonds 500,ALT-SD03,Niche,> 180 Days,107400,110900
+SB-ALT00269,Leage of Leagends Diamonds 250,ALT-SD03,Niche,> 180 Days,50000,53500
+SB-ALT00270,Mobile Credit (Pulsa) 100000,ALT-SD03,Traffics,> 180 Days,100000,103500
